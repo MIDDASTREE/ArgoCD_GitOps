@@ -1,5 +1,5 @@
 replicas: 1
 image:
-  repository: MIDDASTREE/spring
+  repository: m1ddas/spring
   tag: 0.0.1
 environment: staging
